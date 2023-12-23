@@ -1,0 +1,84 @@
+{
+    "count": 1000,
+    "products": {
+      "6834": {
+        "subcategory": "mobile",
+        "title": "Micromax Canvas Spark",
+        "price": "4999",
+        "popularity": "51936"
+      },
+      "5530": {
+        "subcategory": "mobile",
+        "title": "Samsung Galaxy Grand Max",
+        "price": "12950",
+        "popularity": "48876"
+      },
+      "4340": {
+        "subcategory": "mobile",
+        "title": "Apple iPhone 6",
+        "price": "40999",
+        "popularity": "46198"
+      },
+      "4804": {
+        "subcategory": "mobile",
+        "title": "Samsung Galaxy Grand Prime",
+        "price": "9286",
+        "popularity": "45775"
+      },
+      "5266": {
+        "subcategory": "mobile",
+        "title": "Micromax Canvas Nitro A311",
+        "price": "7769",
+        "popularity": "44273"
+      },
+      "5629": {
+        "subcategory": "mobile",
+        "title": "Samsung Galaxy E7",
+        "price": "15763",
+        "popularity": "40345"
+      },
+      "4376": {
+        "subcategory": "mobile",
+        "title": "Samsung Galaxy Core 2",
+        "price": "5907",
+        "popularity": "36082"
+      },
+      "6766": {
+        "subcategory": "mobile",
+        "title": "Lenovo A6000 Plus",
+        "price": "7499",
+        "popularity": "32727"
+      },
+      "2439": {
+        "subcategory": "mobile",
+        "title": "Samsung  Galaxy S4",
+        "price": "14999",
+        "popularity": "31466"
+      },
+      "3626": {
+        "subcategory": "mobile",
+        "title": "Apple iPhone 4S 8GB",
+        "price": "12368",
+        "popularity": "30996"
+      },
+      "5042": {
+        "subcategory": "mobile",
+        "title": "Microsoft Lumia 535",
+        "price": "6874",
+        "popularity": "29965"
+      },
+      "3633": {
+        "subcategory": "mobile",
+        "title": "Samsung Galaxy Grand 2",
+        "price": "11466",
+        "popularity": "28731"
+      },
+      "6259": {
+        "subcategory": "mobile",
+        "title": "Micromax Canvas Juice 2",
+        "price": "7085",
+        "popularity": "28649"
+      }
+      
+    }
+  }
